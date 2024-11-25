@@ -1,0 +1,17 @@
+/* src/Components/Portfolio/Portfolio.css */
+.portfolio-page {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .portfolio-page h1 {
+    font-size: 36px;
+    color: black;
+    margin-bottom: 20px;
+  }
+  
+  .portfolio-page p {
+    font-size: 18px;
+    color: #333;
+  }
+  
